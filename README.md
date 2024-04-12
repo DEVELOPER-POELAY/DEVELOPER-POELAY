@@ -1,10 +1,10 @@
-COPYRIGHT ©️ 2024 69 OFFICE LTD 
+COPYRIGHT ©️ 2024 69 OFFICE INC 
 OFFICIAL OWNER [CEO] SOFTWARE DEVELOPER POELAY
 
 SOFTWARE DEVELOPER POELAY ပါ
 POELAY OFFICIAL SOFTWARE ၀င်ဆောင်မှုများကို
 အသုံးပြုသည့်အတွက်ကျေးဇူးပါ
-လက်ရှိမှာ 69 OFFICE LTD ရဲ့ တည်ထောင်သူ ပိုင်ရှင်ပါ
+လက်ရှိမှာ 69 OFFICE INC ရဲ့ တည်ထောင်သူ ပိုင်ရှင်ပါ
 ရှယ်ယာ၀င်မရှိပေမယ့် လက်ရှိကိုယ်ပိုင်အရင်းအနှီးနဲ့ 
 server database များလည်ပတ်လျက်ရှိပါတယ်
 
